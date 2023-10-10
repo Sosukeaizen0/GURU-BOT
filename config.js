@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
-  [''] 
+  ['221778884595', '𝕾𝖊𝖞è 𝕬𝖎𝖟𝖊𝖓༒', true],
+  ['221704234524', '𝕳𝖔𝖗𝖚𝖘', true], 
+  ['221783879200','Kyozen',true] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '༒𝕷𝖔𝖗𝖉 𝕬𝖖𝖚𝖆𝖒𝖆𝖗𝖎𝖓𝖊⚖️'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.packname = '𝕾𝖊𝖞è 𝕬𝖎𝖟𝖊𝖓༒' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
