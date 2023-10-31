@@ -8,11 +8,10 @@ import axios from 'axios'
 
 global.owner = [
   ['221778884595', '𝕾𝖊𝖞è 𝕬𝖎𝖟𝖊𝖓༒', true],
-  ['221704234524', '𝕳𝖔𝖗𝖚𝖘', true], 
-  ['221783879200','Kyozen',true] 
+
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "221764307993" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -25,7 +24,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.APIs = { // API Prefix
+global.APIs = {/;%;🎭;📍}// API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
